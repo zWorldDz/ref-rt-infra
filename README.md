@@ -1,5 +1,6 @@
 # ref-rt-infra
 ref-rt-infra
+Ubuntu Server 24.04 LTS (HVM), SSD Volume Type
 ```
 sudo su
 git clone https://github.com/its-a-feature/Mythic
