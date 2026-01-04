@@ -17,9 +17,8 @@ sudo ./mythic-cli install github https://github.com/MythicC2Profiles/http
 cat Mythic/.env | grep -i MYTHIC_ADMIN_PASSWORD
 ssh -L 7443:127.0.0.1:7443 ubuntu@<IP> -i key.pem
 ```
-
+# Automated NGINX 
 ```
-### Automated NGINX 
 #!/bin/bash
 # Modified Version of https://github.com/coffeegist/now-you-see-me
 
