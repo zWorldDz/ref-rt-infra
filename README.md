@@ -10,4 +10,5 @@ cd Mythic/
 apt-get install make
 make
 sudo -E ./mythic-cli install github https://github.com/MythicAgents/Apollo.git
+sudo ./mythic-cli install github https://github.com/MythicC2Profiles/http
 ```
