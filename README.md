@@ -1,8 +1,8 @@
 # ref-rt-infra
 ref-rt-infra\
 Ubuntu Server 24.04 LTS (HVM), SSD Volume Type\
-Mythic: v3.4.19
-UI: v0.3.90\
+Mythic: v3.4.19\
+UI: v0.3.90
 ```
 sudo su
 apt-get update
